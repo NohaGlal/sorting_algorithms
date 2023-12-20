@@ -16,7 +16,7 @@ tmp = *a;
 
 /**
  * shell_sort - Sort an array of integers in ascending
-              order using the shell sort algorithm.
+ *           order using the shell sort algorithm.
  * @array: An array of ints.
  * @size: size of the array
  * Description: Uses the Knuth interval sequence.
